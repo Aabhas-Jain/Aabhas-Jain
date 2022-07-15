@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aabhas-Jain
+- 👋 Hi, I’m @AabhasJain
 - 👀 I’m interested in coding and exploring new technologies
 - 🌱 I’m currently learning Full stack development.
 
